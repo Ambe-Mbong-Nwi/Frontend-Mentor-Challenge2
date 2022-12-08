@@ -6,6 +6,9 @@
 
 body{
     background-color: hsl(30, 38%, 92%);
+}  
+
+main{
     width: 400px;
     min-height: 100vh;
     display: grid;
